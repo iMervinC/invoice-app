@@ -4,7 +4,7 @@ const Invoices = () => {
   const { dark } = useTheme()
 
   return (
-    <div>
+    <div className="">
       <h1>Invoice</h1>
     </div>
   )
