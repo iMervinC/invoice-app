@@ -15,7 +15,9 @@ const SideBar = () => {
           <img src="/assets/icon-moon.svg" alt="logo" />
         )}
       </div>
-      <div className="sidebar__picture"></div>
+      <div className="sidebar__picture">
+        <img src="/assets/image-avatar.jpg" alt="avatar" />
+      </div>
     </div>
   )
 }
